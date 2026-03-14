@@ -1,0 +1,11 @@
+gender,tenure,MonthlyCharges,TotalCharges,Contract,Churn
+Male,1,29.8,29.8,Month-to-month,0
+Female,34,56.9,1889.5,Two year,0
+Female,2,53.8,108.1,Month-to-month,1
+Male,45,42.3,1840.7,One year,0
+Male,5,70.2,351.5,Month-to-month,1
+Female,22,65.1,1450.3,Two year,0
+Male,10,49.5,500.0,One year,0
+Female,15,80.3,900.2,Month-to-month,1
+Male,60,90.2,5000.5,Two year,0
+Female,12,55.4,700.3,Month-to-month,1
